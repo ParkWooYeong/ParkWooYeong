@@ -1,8 +1,10 @@
 # ![header](https://capsule-render.vercel.app/api?type=waving&color=7b61ff&height=180&section=header&text=Hello!%20✨&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 ### 🌙 About Me
-> "기억은 기록될 때 비로소 의미를 갖는다."  
-> 일상의 감정을 데이터로 시각화하고, AI와 소통하면서 이것저것 만져보는 개발자 **박우영**입니다.
+> **"Memories only find their meaning when they are recorded."**
+>
+> Hello, I'm **WooYeong Park**.  
+> 일상의 감정을 데이터로 시각화하고, AI와 소통하며 이것저것 만져보는 개발자 박우영입니다.
 
 ---
 
