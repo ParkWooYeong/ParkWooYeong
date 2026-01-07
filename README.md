@@ -41,4 +41,4 @@
 ### 📫 Contact
 <a href="https://github.com/ParkWooYeong"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 <a href="https://mytoday.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white"></a>
-<a href="mailto:uyeongi12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="mailto:uyeongi12@gmail.com?subject=[GitHub%20Contact]"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
