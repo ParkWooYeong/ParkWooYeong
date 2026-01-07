@@ -1,8 +1,8 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=7b61ff&height=180&section=header&text=Hello!%20&fontSize=50&fontColor=ffffff&animation=twinkling)
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=7b61ff&height=180&section=header&text=Hello!%20✨&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 ### 🌙 About Me
 > "기억은 기록될 때 비로소 의미를 갖는다."  
-> 일상의 감정을 데이터로 시각화하고, AI와 소통하면서 이것저것만져보는 개발자 박우영 입니다.
+> 일상의 감정을 데이터로 시각화하고, AI와 소통하면서 이것저것 만져보는 개발자 **박우영**입니다.
 
 ---
 
@@ -35,15 +35,6 @@
   </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParkWooYeong&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkWooYeong&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
 
 ### 📫 Contact
 <a href="https://github.com/ParkWooYeong"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
